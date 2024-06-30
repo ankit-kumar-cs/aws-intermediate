@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This site is hosted on AWS by Ankit Kumar
+          This site is hosted on AWS by Ankit Kumar.
+          AWS is such a great tech.
         </p>
         <a
           className="App-link"
